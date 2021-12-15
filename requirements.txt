@@ -247,7 +247,7 @@ sphinxcontrib-serializinghtml @ file:///tmp/build/80754af9/sphinxcontrib-seriali
 sphinxcontrib-websupport @ file:///tmp/build/80754af9/sphinxcontrib-websupport_1597081412696/work
 spyder @ file:///C:/ci/spyder_1636480387853/work
 spyder-kernels @ file:///C:/ci/spyder-kernels_1634237058681/work
-SQLAlchemy==1.3.23
+SQLAlchemy @ file:///C:/ci/sqlalchemy_1638290815491/work
 statsmodels==0.12.2
 sympy @ file:///C:/ci/sympy_1635219076292/work
 tables==3.6.1
